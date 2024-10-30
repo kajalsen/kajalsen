@@ -11,4 +11,4 @@
 <!--p>&#128108; I'm looking to collaborate on <b>UI / UX Designing</b></p>
 <p>&#129309; I'm looking for help with <b>'NOTHING'</b></p-->
 <p>&#128193; All of my projects are live <b><code><a href="https://kajalsen.github.io">here</a></code></b></p>
-<p>&#128235; Reach me here: <a href="mailto:ketan.kumar08032002@gmail.com">ketan.kumar08032002@gmail.com</a></p>
+<p>&#128235; Reach me here: <a href="mailto:kajalsen8071@gmail.com">kajalsen8071@gmail.com</a></p>
